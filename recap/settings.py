@@ -26,7 +26,7 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG')
 
-ALLOWED_HOSTS = ['/secret-plateau-88586.herokuapp.com']
+ALLOWED_HOSTS = ['secret-plateau-88586.herokuapp.com']
 
 
 # Application definition
